@@ -1,0 +1,17 @@
+{
+    "name": "@peduarte/styled-system__core",
+    "version": "0.0.1",
+    "license": "MIT",
+    "main": "",
+    "types": "index.d.ts",
+    "publishConfig": {
+      "access": "public"
+    },
+    "files": [
+      "index.d.ts"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git"
+    }
+}
